@@ -1,0 +1,5 @@
+projects:
+  - name: dev
+    path: dev
+  - name: prod
+    path: prod
