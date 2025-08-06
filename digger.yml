@@ -1,5 +1,5 @@
 projects:
   - name: dev
-    path: dev
+    dir: dev
   - name: prod
-    path: prod
+    dir: prod
